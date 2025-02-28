@@ -12,7 +12,7 @@ I’m passionate about web development and love building interactive, user-frien
 
 ### 📫 How to Reach Me  
 - **GitHub:** [Sanjayk2624](https://github.com/Sanjayk2624)  
-- **LinkedIn:** [Your LinkedIn Profile]([#](https://www.linkedin.com/in/sanjay-k-35326a2a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+- **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/in/sanjay-k-35326a2a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app])  
 - **Email:** [Your Email](sanjayksanjayk000@gmail.com)  
 
 ### 😄 Pronouns  
